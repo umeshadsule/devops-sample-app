@@ -73,6 +73,6 @@
         </plugin>
       </plugins>
     </pluginManagement>
-    <finalName>sample-maven-project</finalName>
+    <finalName>sample-maven-app</finalName>
   </build>
 </project>
